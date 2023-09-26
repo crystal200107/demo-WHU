@@ -33,11 +33,6 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
-    
-# Optional banner image (relative to `assets/media/` folder).
-banner:
-  caption: ''
-  image: ''
   - block: slider
     content:
       slides:
@@ -86,7 +81,7 @@ banner:
       interval: 2000
     
   - block: markdown
-   content:
+    content:
       title:
       subtitle:
       text: |
