@@ -5,6 +5,15 @@ date: 2022-10-24
 type: landing
 
 sections:
+  - block: hero
+    content:
+      title: |
+        WuYu
+        Research Group
+      text: |
+        <br>
+        
+        The intro of **WuYU Research Group** will display here .
   - block: collection
     content:
       title: Latest News
