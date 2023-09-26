@@ -113,7 +113,7 @@ sections:
         tag: ''
       offset: 0
       order: desc
-      page_type: post
+      page_type: publication
     design:
       view: citation
       columns: '1'
