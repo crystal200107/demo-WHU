@@ -9,6 +9,8 @@ sections:
     content:
       title: |
         WuYu
+      image:
+        filename: welcome.jpg
       text: |
         <br>
         
