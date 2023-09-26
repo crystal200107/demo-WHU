@@ -61,7 +61,7 @@ sections:
       title:
       subtitle:
       text: |
-        {{% cta cta_link="./people/" cta_text="Meet the team →" %}}
+        This is the description of the picture.
     design:
       columns: '1'
 ---
