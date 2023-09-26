@@ -85,12 +85,12 @@ banner:
       # Duration of transition between slides (in ms)
       interval: 2000
     
-#  - block: markdown
-#   content:
-#      title:
- #     subtitle:
- #     text: |
-  #      This is the description of the picture.
- #   design:
-  #    columns: '1'
+  - block: markdown
+   content:
+      title:
+      subtitle:
+      text: |
+        This is the description of the picture.
+    design:
+      columns: '1'
 ---
