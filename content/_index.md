@@ -33,6 +33,17 @@ sections:
       show_interests: false
       show_role: true
       show_social: true
+    
+    - block: markdown
+      title: Publications
+
+      # Listing view
+      view: citation
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
   - block: slider
     content:
       slides:
