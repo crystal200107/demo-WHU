@@ -34,12 +34,6 @@ sections:
       show_role: true
       show_social: true
     
-    - block: markdown
-      title: Publications
-
-      # Listing view
-      view: citation
-
 # Optional banner image (relative to `assets/media/` folder).
 banner:
   caption: ''
@@ -91,12 +85,12 @@ banner:
       # Duration of transition between slides (in ms)
       interval: 2000
     
-  - block: markdown
-    content:
-      title:
-      subtitle:
-      text: |
-        This is the description of the picture.
-    design:
-      columns: '1'
+#  - block: markdown
+#   content:
+#      title:
+ #     subtitle:
+ #     text: |
+  #      This is the description of the picture.
+ #   design:
+  #    columns: '1'
 ---
