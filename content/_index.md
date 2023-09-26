@@ -79,7 +79,17 @@ sections:
       loop: false
       # Duration of transition between slides (in ms)
       interval: 2000
-    
+---
+title: Publications
+
+# Listing view
+view: citation
+
+# Optional banner image (relative to `assets/media/` folder).
+banner:
+  caption: ''
+  image: ''
+---
   - block: markdown
     content:
       title:
