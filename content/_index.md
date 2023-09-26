@@ -9,30 +9,10 @@ sections:
     content:
       title: |
         WuYu
-        Research Group
       text: |
         <br>
         
-        The intro of **WuYU Research Group** will display here .
-  - block: collection
-    content:
-      title: Latest News
-      subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
-      offset: 0
-      order: desc
-      page_type: post
-    design:
-      view: card
-      columns: '1'
-
+        The intro of **WuYU** will display here .
   - block: slider
     content:
       slides:
