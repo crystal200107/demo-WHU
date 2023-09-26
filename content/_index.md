@@ -90,6 +90,7 @@ banner:
   caption: ''
   image: ''
 ---
+sections:
   - block: markdown
     content:
       title:
