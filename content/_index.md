@@ -8,7 +8,7 @@ sections:
   - block: hero
     content:
       title: |
-        WuYuchemy
+        WuYu
         Research Group
       image:
         filename: welcome.jpg
