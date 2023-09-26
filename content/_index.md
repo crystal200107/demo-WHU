@@ -8,13 +8,13 @@ sections:
   - block: hero
     content:
       title: |
-        WuYu
+        WuYu Research Group
       image:
         filename: welcome.jpg
       text: |
         <br>
         
-        The intro of **WuYU** will display here .
+        The intro of **WuYu Research Group** will display here .
   - block: people
     content:
       title: Meet the Team
@@ -73,7 +73,7 @@ sections:
           url: ../contact/
     design:
       # Slide height is automatic unless you force a specific height (e.g. '400px')
-      slide_height: '400'
+      slide_height: '400px'
       is_fullscreen: true
       # Automatically transition through slides?
       loop: false
