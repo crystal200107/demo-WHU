@@ -10,8 +10,6 @@ sections:
       title: |
         WuYu
         Research Group
-      image:
-        filename: welcome.jpg
       text: |
         <br>
         
