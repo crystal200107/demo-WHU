@@ -14,7 +14,7 @@ organizations:
   - name: Wuhan University
 education:
   courses:
-    - course: Bachelor in Software Engineering
+    - course: " BSc in Software Engineering"
       institution: Wuhan University
       year: 2021
 superuser: false
