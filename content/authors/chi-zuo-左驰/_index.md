@@ -1,7 +1,7 @@
 ---
 title: Chi Zuo 左驰
 role: PhD(Purusing)
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 interests:
   - Computer Vision
   - Multi-modal
