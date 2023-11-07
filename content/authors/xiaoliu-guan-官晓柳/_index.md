@@ -23,7 +23,7 @@ education:
   courses:
     - course: BSc in Computer Science and Technology
       institution: Wuhan University
-      year: 2021
+      year: 2023
 superuser: false
 user_groups:
   - Teammates
