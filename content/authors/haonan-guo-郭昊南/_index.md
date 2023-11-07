@@ -16,9 +16,10 @@ organizations:
   - name: Wuhan University
 education:
   courses:
-    - course: Bachelor degree in Geographic Information Science
+    - course: " BSc in Geographic Information Science"
       institution: Sun Yat-sen University
       year: 2020
+email: ""
 superuser: false
 user_groups:
   - Teammates
