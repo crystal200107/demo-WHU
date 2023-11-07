@@ -1,7 +1,8 @@
 ---
 title: NaiFu Liang 梁乃夫
 role: Undergraduate
-avatar_filename: 序号3_梁乃夫_个人照片（最最最重要的一部分，_img_20230115_130231.jpg
+avatar_filename: avatar.jpg
+bio: My current research direction is 3D Diffusion content generation.
 interests:
   - 3D Diffusion
 social:
