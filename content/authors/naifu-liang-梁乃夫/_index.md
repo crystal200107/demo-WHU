@@ -1,5 +1,5 @@
 ---
-title: NaiFu Liang 梁乃夫
+title: Naifu Liang 梁乃夫
 role: Undergraduate
 avatar_filename: avatar.jpg
 bio: My current research direction is 3D Diffusion content generation.
