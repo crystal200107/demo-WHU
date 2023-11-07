@@ -1,5 +1,5 @@
 ---
-title: Chengxin Zhou
+title: Chengxin Zhou 周澄鑫
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
