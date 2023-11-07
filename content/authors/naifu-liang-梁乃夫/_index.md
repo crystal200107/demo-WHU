@@ -18,5 +18,7 @@ education:
       institution: Wuhan University
       year: 2023
 superuser: false
+user_groups:
+  - Visitors
 ---
 I  from Yantai, Shandong. I like music, technology, and exploration. My current research direction is 3D Diffusion content generation.
