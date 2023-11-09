@@ -16,16 +16,15 @@ sections:
         street: 湖北省武汉市洪山区珞喻路129号
         city: 武汉大学信息学部
         region:
-        postcode: '430079'
-        country: United States
-        country_code: US
+        postcode: '430000'
+        country: China
+        country_code: CN
       coordinates:
-        latitude: '37.4275'
-        longitude: '-122.1697'
+        latitude: '30.538396113743687'
+        longitude: '114.35729279244626'
       directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
       office_hours:
-        - 'Monday 10:00 to 13:00'
-        - 'Wednesday 09:00 to 10:00'
+        - 'Monday-Friday 8:30 to 17:30'
       #appointment_url: 'https://calendly.com'
       #contact_links:
       #  - icon: comments
