@@ -10,6 +10,7 @@ authors:
 publication: IEEE Transactions on Image Processing (TIP)
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TIP2021_HolisticLSTM.pdf
 image:
   filename: featured
   focal_point: Smart
