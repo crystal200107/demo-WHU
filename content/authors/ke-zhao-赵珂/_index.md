@@ -1,5 +1,5 @@
 ---
-title: Ke Zhao 赵珂
+title: Ke Zhao
 role: Undergraduate
 avatar_filename: avatar.jpeg
 interests:
