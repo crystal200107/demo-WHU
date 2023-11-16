@@ -33,6 +33,10 @@ abstract: Anticipating actions before they are executed is crucial for a wide
   Action Anticipation Challenge.
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TIP2020_Anticipation.pdf
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/tip2020-anticipation.txt
 image:
   filename: featured
   focal_point: Smart
