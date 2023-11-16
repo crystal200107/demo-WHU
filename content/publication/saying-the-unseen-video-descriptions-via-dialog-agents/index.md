@@ -10,6 +10,8 @@ authors:
 publication: IEEE Transactions on Pattern Analysis and Machine Intelligence
 draft: false
 featured: true
+url_pdf: https://arxiv.org/pdf/2106.14069.pdf
+url_code: https://github.com/L-YeZhu/Video-Description-via-Dialog-Agents-ECCV2020
 image:
   filename: featured
   focal_point: Smart
