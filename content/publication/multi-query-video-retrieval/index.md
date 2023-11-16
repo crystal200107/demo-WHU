@@ -10,6 +10,7 @@ authors:
 publication: ECCV
 draft: false
 featured: true
+url_pdf: https://arxiv.org/pdf/2201.03639
 image:
   filename: featured
   focal_point: Smart
