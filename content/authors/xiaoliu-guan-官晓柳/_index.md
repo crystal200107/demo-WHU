@@ -1,5 +1,5 @@
 ---
-title: Xiaoliu Guan 官晓柳
+title: Xiaoliu Guan
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
