@@ -11,6 +11,7 @@ authors:
 publication: IEEE Transactions on Pattern Analysis and Machine Intelligence
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TPAMI2020_Egocentric-Action.pdf
 image:
   filename: featured
   focal_point: Smart
