@@ -10,6 +10,8 @@ authors:
 publication: IEEE Conference on Computer Vision and Pattern Recognition
 draft: false
 featured: true
+url_pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Yang_Gated_Channel_Transformation_for_Visual_Recognition_CVPR_2020_paper.pdf
+url_code: https://github.com/z-x-yang/GCT
 image:
   filename: featured
   focal_point: Smart
