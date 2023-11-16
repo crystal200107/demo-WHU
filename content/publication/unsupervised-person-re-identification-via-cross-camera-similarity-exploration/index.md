@@ -11,6 +11,10 @@ authors:
 publication: IEEE Transactions on Image Processing (TIP)
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TIP2020_unsupervised-reID.pdf
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/tip2020-unsupervised-reid.txt
 image:
   filename: featured
   focal_point: Smart
