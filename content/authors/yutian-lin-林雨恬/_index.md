@@ -1,5 +1,5 @@
 ---
-title: Yutian Lin 林雨恬
+title: Yutian Lin
 role: Associate Researcher
 avatar_filename: avatar.png
 interests:
