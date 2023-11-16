@@ -1,5 +1,5 @@
 ---
-title: Wei Chen 陈伟
+title: Wei Chen
 role: Undergraduate
 avatar_filename: avatar.jpeg
 interests:
