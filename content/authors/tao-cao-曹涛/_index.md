@@ -1,5 +1,5 @@
 ---
-title: Tao Cao 曹涛
+title: Tao Cao
 role: Master’s Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
