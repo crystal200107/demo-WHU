@@ -11,6 +11,10 @@ publication: We achieved the 1st place in the EPIC-Kitchens Action Recognition
   Challenge @ CVPR19. This is our report in the CVPR Workshop
 draft: false
 featured: true
+url_pdf: https://arxiv.org/abs/1906.09383
+links:
+  - name: Official Site
+    url: https://epic-kitchens.github.io/201949
 image:
   filename: featured
   focal_point: Smart
