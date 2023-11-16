@@ -1,5 +1,5 @@
 ---
-title: Fan Xiao 肖帆
+title: Fan Xiao
 role: PhD(Purusing)
 avatar_filename: avatar.jpg
 bio: ""
