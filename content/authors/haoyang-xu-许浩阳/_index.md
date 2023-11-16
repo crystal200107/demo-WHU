@@ -1,5 +1,5 @@
 ---
-title: Haoyang Xu 许浩阳
+title: Haoyang Xu
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
