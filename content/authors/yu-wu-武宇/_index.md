@@ -2,6 +2,8 @@
 title: Yu Wu
 role: Professor
 avatar_filename: avatar.png
+bio: I am Yu Wu (武宇), a Full Professor at School of Computer Science, Wuhan
+  University.
 interests:
   - Artificial intelligence
   - Computer vision
