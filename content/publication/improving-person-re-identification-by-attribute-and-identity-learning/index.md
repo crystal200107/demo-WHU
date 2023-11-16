@@ -32,6 +32,12 @@ abstract: Person re-identification (re-ID) and attribute recognition share a
   demonstrate improvement over the baselines.
 draft: false
 featured: true
+url_pdf: https://www.sciencedirect.com/science/article/abs/pii/S0031320319302377?via%3Dihub#absh001
+url_dataset: https://github.com/vana77/Market-1501_Attribute
+url_code: https://github.com/vana77/Market-1501_Attribute
+links:
+  - name: Bibtex
+    url: https://github.com/vana77/Market-1501_Attribute
 image:
   filename: featured
   focal_point: Smart
