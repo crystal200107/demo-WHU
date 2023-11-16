@@ -1,5 +1,5 @@
 ---
-title: Yuhan Pei 裴宇涵
+title: Yuhan Pei
 role: Undergraduate
 avatar_filename: avatar.jpg
 interests:
