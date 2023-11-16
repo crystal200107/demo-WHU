@@ -28,6 +28,10 @@ abstract: Image captioning aims at automatically describing images by sentences.
   concepts.
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TPAMI2022_noc.pdf
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/tpami22-noc.txt
 image:
   filename: featured
   focal_point: Smart
