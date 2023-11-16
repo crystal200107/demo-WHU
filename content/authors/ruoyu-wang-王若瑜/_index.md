@@ -1,5 +1,5 @@
 ---
-title: Ruoyu Wang 王若瑜
+title: Ruoyu Wang
 role: Undergraduate
 avatar_filename: avatar.jpg
 interests:
