@@ -10,6 +10,10 @@ authors:
 publication: IEEE International Conference on Computer Vision
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/ICCV2019_Dual-Attention-Matching.pdf
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/iccv2019_dam.txt
 image:
   filename: featured
   focal_point: Smart
