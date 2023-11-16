@@ -35,7 +35,7 @@ education:
     - course: Postdoctoral Research Associate
       institution: Princeton University
       year: 2022
-superuser: false
+superuser: true
 user_groups:
   - Researchers
 ---
