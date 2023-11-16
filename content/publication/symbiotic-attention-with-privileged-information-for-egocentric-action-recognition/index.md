@@ -11,6 +11,7 @@ authors:
 publication: AAAI 2020 (Oral)
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/AAAI2020_Epic.pdf
 image:
   filename: featured
   focal_point: Smart
