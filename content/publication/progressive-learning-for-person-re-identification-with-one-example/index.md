@@ -35,6 +35,14 @@ abstract: In this paper, we focus on the one-example person re-identiﬁcation
   supervised state-of-the-art method with 100% labeled data.
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TIP2019_One-Example-reID.pdf
+url_dataset: https://github.com/Yu-Wu/One-Example-Person-ReID
+url_code: https://github.com/Yu-Wu/One-Example-Person-ReID
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/tip2019-reid.txt
+  - name: IEEE
+    url: https://ieeexplore.ieee.org/document/8607049
 image:
   filename: featured
   focal_point: Smart
