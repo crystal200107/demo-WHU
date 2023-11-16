@@ -1,5 +1,5 @@
 ---
-title: Yinyin Fan 范颖颖
+title: Yinyin Fan
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpeg
 interests:
