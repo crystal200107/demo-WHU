@@ -1,5 +1,5 @@
 ---
-title: Huayang Huang 黄华洋
+title: Huayang Huang
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
