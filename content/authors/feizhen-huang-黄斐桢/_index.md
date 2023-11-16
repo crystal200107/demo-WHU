@@ -1,5 +1,5 @@
 ---
-title: Feizhen Huang 黄斐桢
+title: Feizhen Huang
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
