@@ -9,7 +9,7 @@ authors:
   - Yan Yan
   - Wei Bian
   - Yi Yang
-publication: EEE Transactions on Image Processing (TIP)
+publication: IEEE Transactions on Image Processing (TIP)
 abstract: In this paper, we focus on the one-example person re-identiﬁcation
   (re-ID) task, where each identity has only one labeled example along with many
   unlabeled examples. We propose a progressive framework which gradually
