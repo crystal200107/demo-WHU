@@ -1,5 +1,5 @@
 ---
-title: Delin Chen 陈德林
+title: Delin Chen
 role: Undergraduate
 avatar_filename: avatar.jpg
 interests:
