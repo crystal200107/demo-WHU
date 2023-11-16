@@ -11,6 +11,7 @@ authors:
 publication: ICASSP
 draft: false
 featured: true
+url_pdf: https://arxiv.org/pdf/2102.03424.pdf
 image:
   filename: featured
   focal_point: Smart
