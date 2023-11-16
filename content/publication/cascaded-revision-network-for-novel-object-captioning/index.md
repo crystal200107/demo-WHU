@@ -12,6 +12,8 @@ authors:
 publication: IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)
 draft: false
 featured: true
+url_pdf: https://arxiv.org/abs/1908.02726
+url_code: https://github.com/qy-feng/CRN
 image:
   filename: featured
   focal_point: Smart
