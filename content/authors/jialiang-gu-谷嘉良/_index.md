@@ -1,5 +1,5 @@
 ---
-title: Jialiang Gu 谷嘉良
+title: Jialiang Gu
 role: Undergraduate
 avatar_filename: avatar.jpeg
 interests:
