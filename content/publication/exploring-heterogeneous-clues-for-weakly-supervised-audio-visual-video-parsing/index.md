@@ -8,6 +8,11 @@ authors:
 publication: CVPR
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/CVPR21_audio.pdf
+url_code: https://github.com/Yu-Wu/Modaily-Aware-Audio-Visual-Video-Parsing
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/cvpr21-audvis.txt
 image:
   filename: featured
   focal_point: Smart
