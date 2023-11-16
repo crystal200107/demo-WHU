@@ -1,5 +1,5 @@
 ---
-title: Zihan Mao 毛子昊
+title: Zihan Mao
 role: Undergraduate
 avatar_filename: avatar.jpg
 interests:
