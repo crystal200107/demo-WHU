@@ -1,5 +1,5 @@
 ---
-title: Yu Wu 武宇
+title: Yu Wu
 role: Professor
 avatar_filename: avatar.png
 interests:
