@@ -9,6 +9,8 @@ sections:
     content:
       title: |
         WuYu Research Group
+      image:
+        filename: welcome.jpg
       text: |
         <br>
         Welcome to our dynamic research team, where innovation converges with expertise to unravel the complexities of computer vision and multimodal computing. At the forefront of technological advancements, our team is committed to pushing the boundaries of what is possible in the realms of visual perception and the integration of diverse data modalities. 
