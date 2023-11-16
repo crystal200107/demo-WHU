@@ -1,5 +1,5 @@
 ---
-title: "Zhilaing Yu 余志椋 "
+title: Zhilaing Yu
 role: Undergraduate
 avatar_filename: avatar.jpg
 interests:
