@@ -1,5 +1,5 @@
 ---
-title: Chi Zuo 左驰
+title: Chi Zuo
 role: PhD(Purusing)
 avatar_filename: avatar.png
 interests:
