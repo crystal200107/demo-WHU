@@ -1,5 +1,5 @@
 ---
-title: Sai Wang 王赛
+title: Sai Wang
 role: PhD(Purusing)
 avatar_filename: avatar.jpg
 interests:
