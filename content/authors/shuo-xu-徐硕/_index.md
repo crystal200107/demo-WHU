@@ -1,5 +1,5 @@
 ---
-title: Shuo Xu 徐硕
+title: Shuo Xu
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
