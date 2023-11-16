@@ -34,6 +34,10 @@ abstract: We focus on the occlusion problem in person re-identification (re-id),
   re-id datasets.
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TNNLS-Occlusion_reid.pdf
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/tnnls2021-reid.txt
 image:
   filename: featured
   focal_point: Smart
