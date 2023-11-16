@@ -1,5 +1,5 @@
 ---
-title: Yiyang Zou 邹奕杨
+title: Yiyang Zou
 role: Undergraduate
 avatar_filename: avatar.jpg
 bio: ""
