@@ -10,6 +10,10 @@ authors:
 publication: IEEE Conference on Computer Vision and Pattern Recognition
 draft: false
 featured: true
+url_pdf: https://openaccess.thecvf.com/content_CVPR_2020/papers/Qi_Imitative_Non-Autoregressive_Modeling_for_Trajectory_Forecasting_and_Imputation_CVPR_2020_paper.pdf
+links:
+  - name: Video
+    url: https://www.youtube.com/watch?v=0eiXmWGDJNs&ab_channel=ComputerVisionFoundationVideos
 image:
   filename: featured
   focal_point: Smart
