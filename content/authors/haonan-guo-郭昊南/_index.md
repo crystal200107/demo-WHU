@@ -1,5 +1,5 @@
 ---
-title: Haonan Guo 郭昊南
+title: Haonan Guo
 role: PhD(Purusing)
 avatar_filename: avatar.jpg
 interests:
