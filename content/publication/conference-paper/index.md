@@ -13,7 +13,7 @@ url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 publication_types:
   - "1"
 authors:
-  - Wu Yu
+  - Nelson Bighetti
 publication: In *Source Themes Conference*
 featured: true
 tags:
@@ -28,7 +28,7 @@ url_project: ""
 publication_short: In *STC*
 url_source: "#"
 url_video: "#"
-date: 2013-07-01T00:00:00Z
+date: 2013-07-01T00:00:00.000Z
 url_slides: ""
 links:
   - name: Custom Link
@@ -37,7 +37,7 @@ image:
   caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
   focal_point: ""
   preview_only: false
-publishDate: 2017-01-01T00:00:00Z
+publishDate: 2017-01-01T00:00:00.000Z
 url_poster: "#"
 url_code: "#"
 doi: ""
