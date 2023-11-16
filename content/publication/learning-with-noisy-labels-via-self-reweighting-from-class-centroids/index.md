@@ -35,6 +35,10 @@ abstract: Although deep neural networks have been proved effective in many
   the state-of-the-art on learning with noisy data.
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/TNNLS2021_SRCC.pdf
+links:
+  - name: Bibtex
+    url: https://yu-wu.net/bibtexs/tnnls2021-reid.txt
 image:
   filename: featured
   focal_point: Smart
