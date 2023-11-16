@@ -1,5 +1,5 @@
 ---
-title: Zhihao Qian 钱志浩
+title: Zhihao Qian
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpg
 interests:
