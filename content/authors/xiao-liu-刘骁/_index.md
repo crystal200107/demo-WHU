@@ -1,5 +1,5 @@
 ---
-title: Xiao Liu 刘骁
+title: Xiao Liu
 role: Undergraduate
 avatar_filename: avatar.jpg
 interests:
