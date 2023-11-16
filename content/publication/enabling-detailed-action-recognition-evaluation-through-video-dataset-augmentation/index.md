@@ -10,6 +10,8 @@ authors:
 publication: NeurIPS
 draft: false
 featured: true
+url_pdf: https://openreview.net/pdf?id=eOnQ2etkxto
+url_code: https://github.com/princetonvisualai/HAT
 image:
   filename: featured
   focal_point: Smart
