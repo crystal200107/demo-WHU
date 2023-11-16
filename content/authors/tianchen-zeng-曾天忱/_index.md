@@ -1,5 +1,5 @@
 ---
-title: Tianchen Zeng 曾天忱
+title: Tianchen Zeng
 role: PhD(Purusing)
 avatar_filename: avatar.jpg
 interests:
