@@ -14,6 +14,8 @@ authors:
 publication: CVPR
 draft: false
 featured: true
+url_pdf: https://yu-wu.net/pdf/CVPR22_CAML.pdf
+url_code: https://github.com/bansheng/CAML
 image:
   filename: featured
   focal_point: Smart
