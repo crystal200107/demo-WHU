@@ -1,5 +1,5 @@
 ---
-title: Yongqi Yang 杨永祺
+title: Yongqi Yang
 role: Master's Degree(Purusing)
 avatar_filename: avatar.jpeg
 interests:
