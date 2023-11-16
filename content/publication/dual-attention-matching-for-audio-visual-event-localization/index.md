@@ -10,6 +10,7 @@ authors:
   - Yan Yan
   - Yi Yang
 publication: IEEE International Conference on Computer Vision
+publication_short: ICCV(Oral),2019
 featured: true
 image:
   filename: featured
