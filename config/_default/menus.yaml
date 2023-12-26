@@ -8,7 +8,7 @@ main:
    #  url: admin
    #  weight: 10
   - name: Home
-    url: 'https://fanciful-pony-59a13e.netlify.app/'
+    url: admin
     weight: 20
   - name: People
     url: people
