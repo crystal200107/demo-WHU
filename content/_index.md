@@ -8,10 +8,11 @@ sections:
   - block: hero
     content:
       title: |
-       Research Lab
+       Yu Wu
       image:
-        filename: welcome.jpg
+        filename: YU WU.png
       text: |
+    
 
 
   
