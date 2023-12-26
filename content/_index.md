@@ -9,7 +9,7 @@ sections:
     content:
       title: |
        Research Lab
-     image:
+      image:
         filename: welcome.jpg
       text: |
 
