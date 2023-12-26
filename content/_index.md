@@ -8,12 +8,17 @@ sections:
   - block: hero
     content:
       title: |
-        WuYu Research Group
-      image:
-        filename: welcome.jpg
+       Research Lab
+    #  image:
+    #    filename: welcome.jpg
       text: |
         <br>
-        Welcome to our dynamic research team, where innovation converges with expertise to unravel the complexities of computer vision and multimodal computing. Our team is committed to pushing the boundaries of what is possible in the realms of visual perception and the integration of diverse data modalities. 
+        The VisionX Lab (Vision and eXtended) Lab is affiliated with Wuhan University. Our research spans three key areas:
+        1.	Vision Perception: Our research encompasses various computer vision fields, including object detection, image parsing, and human activity recognition, and other fundamental aspects of computer vision.
+        2.	Vision-Language Integration: We are dedicated to facilitating seamless collaboration between vision and language, enhancing communication and reasoning across these modalities.
+        3.	Generative Models: We aim to generate high-fidelity images, text, and other forms of content, fostering new possibilities in AI-driven content generation.
+        Looking for highly-motivated Postdoc/Ph.D. students for 2023! Feel free to drop me an email with your CV. [招生信息] 
+
   
   - block: collection
     content:
