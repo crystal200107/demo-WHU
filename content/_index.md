@@ -13,15 +13,15 @@ sections:
         filename: welcome.jpg
       text: |
     <body>
-  <h1>The <span style="text-transform: uppercase;">VisionX</span> Lab (Vision and eXtended) Lab is affiliated with Wuhan University.</h1>
-  <p>Our research spans three key areas:</p>
-  <ol>
-    <li><span style="text-transform: uppercase;">Vision Perception:</span> Our research encompasses various computer vision fields, including object detection, image parsing, and human activity recognition, and other fundamental aspects of computer vision.</li>
-    <li><span style="text-transform: uppercase;">Vision-Language Integration:</span> We are dedicated to facilitating seamless collaboration between vision and language, enhancing communication and reasoning across these modalities.</li>
-    <li><span style="text-transform: uppercase;">Generative Models:</span> We aim to generate high-fidelity images, text, and other forms of content, fostering new possibilities in AI-driven content generation.</li>
-  </ol>
-  <p class="red-text">Looking for highly-motivated Postdoc/Ph.D. students for 2023! Feel free to drop me an <a href="mailto:your.email@example.com" class="link-text">email</a> with your CV. [<span class="link-text">招生信息</span>]</p>
-</body>
+      <h1>The <span style="text-transform: uppercase;">VisionX</span> Lab (Vision and eXtended) Lab is affiliated with Wuhan University.</h1>
+      <p>Our research spans three key areas:</p>
+      <ol>
+        <li><span style="text-transform: uppercase;">Vision Perception:</span> Our research encompasses various computer vision fields, including object detection, image parsing, and human activity recognition, and other fundamental aspects of computer vision.</li>
+        <li><span style="text-transform: uppercase;">Vision-Language Integration:</span> We are dedicated to facilitating seamless collaboration between vision and language, enhancing communication and reasoning across these modalities.</li>
+        <li><span style="text-transform: uppercase;">Generative Models:</span> We aim to generate high-fidelity images, text, and other forms of content, fostering new possibilities in AI-driven content generation.</li>
+      </ol>
+      <p class="red-text">Looking for highly-motivated Postdoc/Ph.D. students for 2023! Feel free to drop me an <a href="mailto:your.email@example.com" class="link-text">email</a> with your CV. [<span class="link-text">招生信息</span>]</p>
+    </body>
 
   
   - block: collection
