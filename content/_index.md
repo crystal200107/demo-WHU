@@ -10,17 +10,23 @@ sections:
       title: >
         <span style="font-size: 1.3em;">Research Lab</span><br>
       text: >
-        The VisionX Lab (Vision and eXtended) Lab is affiliated with Wuhan University. Our research spans three key areas:<br>
-        1. Vision Perception: Our research encompasses various computer vision fields, including object detection, image parsing, and human activity recognition, and other fundamental aspects of computer vision.<br>
-        2. Vision-Language Integration: We are dedicated to facilitating seamless collaboration between vision and language, enhancing communication and reasoning across these modalities.<br>
-        3. Generative Models: We aim to generate high-fidelity images, text, and other forms of content, fostering new possibilities in AI-driven content generation.<br>
-        Looking for highly-motivated Postdoc/Ph.D. students for 2023! Feel free to drop me an email with your CV. [[招生信息]](https://zhuanlan.zhihu.com/p/581311359)<br>
+        <div style="width: 100%;">
+          The VisionX Lab (Vision and eXtended) Lab is affiliated with Wuhan University. Our research spans three key areas:<br>
+          1. Vision Perception: Our research encompasses various computer vision fields, including object detection, image parsing, and human activity recognition, and other fundamental aspects of computer vision.<br>
+          2. Vision-Language Integration: We are dedicated to facilitating seamless collaboration between vision and language, enhancing communication and reasoning across these modalities.<br>
+          3. Generative Models: We aim to generate high-fidelity images, text, and other forms of content, fostering new possibilities in AI-driven content generation.<br>
+          Looking for highly-motivated Postdoc/Ph.D. students for 2023! Feel free to drop me an email with your CV. [[招生信息]](https://zhuanlan.zhihu.com/p/581311359)<br>
+        </div>
       
     design:
       columns: '1'
-      # 调整文字区域宽度
-      text:
-        width: '80%'
+  
+        
+      design:
+        columns: '1'
+        # 调整文字区域宽度
+        text:
+          width: '80%'
 
     
   - block: hero
