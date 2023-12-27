@@ -10,7 +10,7 @@ sections:
       title: >
         <span style="font-size: 1.3em;">Research Lab</span><br>
       text: >
-        <div style="width: 100%;">
+        <div style="display: flex; flex-direction: column; align-items: center;">
           The VisionX Lab (Vision and eXtended) Lab is affiliated with Wuhan University. Our research spans three key areas:<br>
           1. Vision Perception: Our research encompasses various computer vision fields, including object detection, image parsing, and human activity recognition, and other fundamental aspects of computer vision.<br>
           2. Vision-Language Integration: We are dedicated to facilitating seamless collaboration between vision and language, enhancing communication and reasoning across these modalities.<br>
@@ -20,13 +20,6 @@ sections:
       
     design:
       columns: '1'
-  
-        
-      design:
-        columns: '1'
-        # 调整文字区域宽度
-        text:
-          width: '80%'
 
     
   - block: hero
