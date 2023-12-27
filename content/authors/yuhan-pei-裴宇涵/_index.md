@@ -1,6 +1,6 @@
 ---
 title: Yuhan Pei
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpg
 interests:
   - artificial Intelligence
