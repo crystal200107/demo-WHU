@@ -39,7 +39,7 @@ education:
       year: 2022
 superuser: true
 user_groups:
-  - Researchers
+  - Principal Investigators
 ---
 <!--StartFragment-->
 
