@@ -12,7 +12,9 @@ sections:
       image:
         filename: YU WU.png
       text: |
-    
+        [Google Scholar](https://scholar.google.com.au/citations?user=23SZHUwAAAAJ&hl=en)[GitHub](https://github.com/Yu-Wu))[中文主页](https://cs.whu.edu.cn/info/1019/3355.htm)
+        Room D506, School of Computer Science, Wuhan University
+        Email: wuyucs AT whu.edu.cn
 
 
   
