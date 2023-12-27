@@ -17,7 +17,7 @@ sections:
       text: |
         <span style="font-size: 0.7em;">[[Google Scholar]](https://scholar.google.com.au/citations?user=23SZHUwAAAAJ&hl=en) [[GitHub]](https://github.com/Yu-Wu) [[中文主页]](https://cs.whu.edu.cn/info/1019/3355.htm)<br>
         Room D506, School of Computer Science, Wuhan University<br>
-        Email: wuyucs@whu.edu.cn</span><br>
+        Email:  wuyucs@whu.edu.cn</span><br>
 
 
   
