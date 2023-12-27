@@ -22,10 +22,10 @@ sections:
         columns: '2'
         image:
           width: '30%'
-          order: 2  # 调整图像的顺序
+          order: 1  # 调整图像的顺序
         text:
           width: '70%'
-          order: 1  # 调整文字的顺序
+          order: 2  # 调整文字的顺序
 
 
   
