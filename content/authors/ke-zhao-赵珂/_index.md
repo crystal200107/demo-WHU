@@ -1,6 +1,6 @@
 ---
 title: Ke Zhao
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpeg
 interests:
   - Artificial intelligence
