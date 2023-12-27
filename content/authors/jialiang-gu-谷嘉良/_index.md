@@ -1,6 +1,6 @@
 ---
 title: Jialiang Gu
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpeg
 interests:
   - vision-language model
