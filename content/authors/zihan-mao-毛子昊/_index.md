@@ -1,6 +1,6 @@
 ---
 title: Zihan Mao
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpg
 interests:
   - generative AI
@@ -20,7 +20,7 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
