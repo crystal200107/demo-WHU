@@ -1,6 +1,6 @@
 ---
 title: Yinyin Fan
-role: Master's Degree(Purusing)
+role: Master Students
 avatar_filename: avatar.jpeg
 interests:
   - audio-visual learning
@@ -20,7 +20,7 @@ education:
       year: 2019
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
 <!--StartFragment-->
 
