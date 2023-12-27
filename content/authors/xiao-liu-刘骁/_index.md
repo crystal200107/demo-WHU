@@ -1,6 +1,6 @@
 ---
 title: Xiao Liu
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpg
 interests:
   - generative AI
