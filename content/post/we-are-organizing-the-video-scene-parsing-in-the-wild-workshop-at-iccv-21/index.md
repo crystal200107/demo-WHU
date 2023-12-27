@@ -1,6 +1,6 @@
 ---
 title: We are organizing the Video Scene Parsing in the Wild workshop at ICCV 21.
-date: 2023-12-27T09:41:02.973Z
+date: 2021-09-01T09:44:10.630Z
 draft: false
 featured: false
 image:
