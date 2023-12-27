@@ -1,6 +1,6 @@
 ---
 title: Zhilaing Yu
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpg
 interests:
   - Image segmentation
@@ -20,7 +20,7 @@ education:
       year: 2019
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
