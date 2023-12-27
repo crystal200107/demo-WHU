@@ -1,6 +1,6 @@
 ---
 title: Delin Chen
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpg
 interests:
   - Foundation models and multimodal reasoning ，ai for healthcare
