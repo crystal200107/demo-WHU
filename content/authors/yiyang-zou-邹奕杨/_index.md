@@ -1,6 +1,6 @@
 ---
 title: Yiyang Zou
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpg
 bio: ""
 interests:
