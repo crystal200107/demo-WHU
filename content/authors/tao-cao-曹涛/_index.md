@@ -6,7 +6,12 @@ interests:
   - Artificial intelligence
   - computer vision
   - referring expression segmentation
-social: []
+social:
+  - display:
+      header: false
+    link: taocao18@gmail.com
+    icon_pack: fas
+    icon: envelope
 organizations:
   - name: WuHan University
 superuser: false
