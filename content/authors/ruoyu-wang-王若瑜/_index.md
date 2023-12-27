@@ -1,6 +1,6 @@
 ---
 title: Ruoyu Wang
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpg
 interests:
   - Artificial Intelligence
