@@ -1,6 +1,6 @@
 ---
 title: Chi Zuo
-role: PhD(Purusing)
+role: Ph.D. Students (Purusing)
 avatar_filename: avatar.png
 interests:
   - Computer Vision
@@ -23,7 +23,7 @@ education:
       institution: Syracuse University
 superuser: false
 user_groups:
-  - Teammates
+  - Ph.D. Students
 ---
 <!--StartFragment-->
 
