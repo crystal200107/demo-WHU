@@ -1,6 +1,6 @@
 ---
 title: Xiao Liu
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpg
 interests:
   - generative AI
@@ -19,7 +19,7 @@ education:
       year: 2018
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
