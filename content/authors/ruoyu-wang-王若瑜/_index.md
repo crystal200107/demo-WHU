@@ -1,6 +1,6 @@
 ---
 title: Ruoyu Wang
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpg
 interests:
   - Artificial Intelligence
@@ -20,7 +20,7 @@ education:
       year: 2022
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
