@@ -1,6 +1,6 @@
 ---
 title: Wei Chen
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpeg
 interests:
   - Vision Language Representation
@@ -21,7 +21,7 @@ education:
       year: 2020
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
