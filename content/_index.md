@@ -8,9 +8,9 @@ sections:
   - block: hero
     content:
       title: >
-        <span style="font-size: 1.5em;">YU WU</span><br>
-        <span style="font-size: 1em;">Professor<br>
-        School of Computer Science<br>
+        <span style="font-size: 1.2em;">YU WU</span><br>
+        <span style="font-size: 0.8em;">Professor</span><br>
+        <span style="font-size: 0.6em;">School of Computer Science<br>
         Wuhan University</span>
       image:
         filename: YU WU.png
