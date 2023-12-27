@@ -12,12 +12,20 @@ sections:
         <span style="font-size: 0.7em; margin-left: 10px;">Professor</span><br>
         <span style="font-size: 0.5em;">[School of Computer Science](https://cs.whu.edu.cn/)<br>
         [Wuhan University](https://whu.edu.cn/)</span>
-      image:
-        filename: YU WU.png
       text: |
         <span style="font-size: 0.7em;">[[Google Scholar]](https://scholar.google.com.au/citations?user=23SZHUwAAAAJ&hl=en) [[GitHub]](https://github.com/Yu-Wu) [[中文主页]](https://cs.whu.edu.cn/info/1019/3355.htm)<br>
         Room D506, School of Computer Science, Wuhan University<br>
         Email:  wuyucs@whu.edu.cn</span><br>
+      image:
+        filename: YU WU.png
+      design:
+        columns: '2'
+        image:
+          width: '30%'
+          order: 2  # 调整图像的顺序
+        text:
+          width: '70%'
+          order: 1  # 调整文字的顺序
 
 
   
