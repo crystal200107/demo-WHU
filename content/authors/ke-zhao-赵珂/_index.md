@@ -1,6 +1,6 @@
 ---
 title: Ke Zhao
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpeg
 interests:
   - Artificial intelligence
@@ -19,7 +19,7 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
