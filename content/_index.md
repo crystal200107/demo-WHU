@@ -5,7 +5,7 @@ date: 2022-10-24
 type: landing
 
 sections:
-  - block: hero
+  - block: collection
     content:
       title: >
         <span style="font-size: 1.3em;">Research Lab</span><br>
