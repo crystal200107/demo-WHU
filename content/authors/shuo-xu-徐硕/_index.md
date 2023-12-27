@@ -1,6 +1,6 @@
 ---
 title: Shuo Xu
-role: Master's Degree(Purusing)
+role: Master Students
 avatar_filename: avatar.jpg
 interests:
   - Open World Semantic Segmentation
@@ -20,7 +20,7 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
 <!--StartFragment-->
 
