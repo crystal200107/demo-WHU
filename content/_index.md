@@ -10,7 +10,7 @@ sections:
       title: >
         <span style="font-size: 1.2em;">YU WU</span><br>
         <span style="font-size: 0.7em; margin-left: 10px;">Professor</span><br>
-        <span style="font-size: 0.5em;">[School of Computer Science](https://cs.whu.edu.cn/)<br>
+        <span style="font-size: 0.5em;">[School of Computer Science](https://cs.whu.edu.cn/),
         [Wuhan University](https://whu.edu.cn/)</span><br>
       text: >
         <span style="font-size: 0.7em;">[[Google Scholar]](https://scholar.google.com.au/citations?user=23SZHUwAAAAJ&hl=en) [[GitHub]](https://github.com/Yu-Wu) [[中文主页]](https://cs.whu.edu.cn/info/1019/3355.htm)<br>
