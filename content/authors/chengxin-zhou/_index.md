@@ -1,6 +1,6 @@
 ---
 title: Chengxin Zhou
-role: Master Students (Purusing)
+role: Master Students
 avatar_filename: avatar.jpg
 interests:
   - Person Re-identification
