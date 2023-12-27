@@ -1,6 +1,6 @@
 ---
 title: Fan Xiao
-role: PhD(Purusing)
+role: Ph.D. Students (Purusing)
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -22,7 +22,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - Teammates
+  - Ph.D. Students
 ---
 <!--StartFragment-->
 
