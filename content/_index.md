@@ -8,6 +8,20 @@ sections:
   - block: hero
     content:
       title: >
+        <span style="font-size: 1.5em;">YU WU</span><br>
+        <span style="font-size: 1em; margin-left: 10px;">Professor<br>
+        School of Computer Science<br>
+        Wuhan University</span>
+      text: >
+        [Google Scholar](https://scholar.google.com/) [GitHub](https://github.com/) [中文主页](链接到中文主页)<br>
+        Room D506, School of Computer Science, Wuhan University<br>
+        Email: wuyucs AT whu.edu.cn
+    design:
+      columns: '1'
+    
+  - block: hero
+    content:
+      title: >
         <span style="font-size: 1.2em;">YU WU</span><br>
         <span style="font-size: 0.7em; margin-left: 10px;">Professor</span><br>
         <span style="font-size: 0.5em;">[School of Computer Science](https://cs.whu.edu.cn/)<br>
