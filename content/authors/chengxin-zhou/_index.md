@@ -19,7 +19,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
 <!--StartFragment-->
 
