@@ -1,6 +1,6 @@
 ---
 title: Zhilaing Yu
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpg
 interests:
   - Image segmentation
