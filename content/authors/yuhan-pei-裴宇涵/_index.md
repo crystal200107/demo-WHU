@@ -1,6 +1,6 @@
 ---
 title: Yuhan Pei
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpg
 interests:
   - artificial Intelligence
@@ -19,7 +19,7 @@ education:
       year: 2024
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
