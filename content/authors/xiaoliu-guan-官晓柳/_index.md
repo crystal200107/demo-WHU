@@ -1,6 +1,6 @@
 ---
 title: Xiaoliu Guan
-role: Master's Degree(Purusing)
+role: Master Students
 avatar_filename: avatar.jpg
 interests:
   - Computer Vision
@@ -26,7 +26,7 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
 <!--StartFragment-->
 
