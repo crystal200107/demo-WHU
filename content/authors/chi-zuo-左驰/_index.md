@@ -1,6 +1,6 @@
 ---
 title: Chi Zuo
-role: Ph.D. Students (Purusing)
+role: "Ph.D. Students "
 avatar_filename: avatar.png
 interests:
   - Computer Vision
