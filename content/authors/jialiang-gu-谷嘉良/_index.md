@@ -1,6 +1,6 @@
 ---
 title: Jialiang Gu
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpeg
 interests:
   - vision-language model
@@ -20,7 +20,7 @@ education:
       year: 2020
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 <!--StartFragment-->
 
