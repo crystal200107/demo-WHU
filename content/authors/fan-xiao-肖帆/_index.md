@@ -1,6 +1,6 @@
 ---
 title: Fan Xiao
-role: Ph.D. Students (Purusing)
+role: Ph.D. Students
 avatar_filename: avatar.jpg
 bio: ""
 interests:
