@@ -1,6 +1,6 @@
 ---
 title: Naifu Liang
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpg
 bio: My current research direction is 3D Diffusion content generation.
 interests:
@@ -20,6 +20,6 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 I  from Yantai, Shandong. I like music, technology, and exploration. My current research direction is 3D Diffusion content generation.
