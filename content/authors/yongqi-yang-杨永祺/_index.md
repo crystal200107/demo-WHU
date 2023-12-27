@@ -1,6 +1,6 @@
 ---
 title: Yongqi Yang
-role: Master's Degree(Purusing)
+role: Master Students
 avatar_filename: avatar.jpeg
 interests:
   - AIGC
@@ -20,7 +20,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
 <!--StartFragment-->
 
