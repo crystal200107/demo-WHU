@@ -17,6 +17,7 @@ sections:
           Looking for highly-motivated Postdoc/Ph.D. students for 2023! Feel free to drop me an email with your CV. [[招生信息]](https://zhuanlan.zhihu.com/p/581311359)<br>
       count: 1  
     design:
+      view: ''
       columns: '1'
 
     
