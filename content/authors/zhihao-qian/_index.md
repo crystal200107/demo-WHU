@@ -1,6 +1,6 @@
 ---
 title: Zhihao Qian
-role: Master's Degree(Purusing)
+role: Master Students
 avatar_filename: avatar.jpg
 interests:
   - misc
@@ -19,7 +19,7 @@ education:
       year: 2019
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
 <!--StartFragment-->
 
