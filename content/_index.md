@@ -9,8 +9,8 @@ sections:
     content:
       title: >
         <span style="font-size: 1.2em;">YU WU</span><br>
-        <span style="font-size: 0.8em;"> Professor</span><br>
-        <span style="font-size: 0.6em;">[School of Computer Science](https://cs.whu.edu.cn/)<br>
+        <span style="font-size: 0.7em;">   Professor</span><br>
+        <span style="font-size: 0.5em;">[School of Computer Science](https://cs.whu.edu.cn/)<br>
         [Wuhan University](https://whu.edu.cn/)</span>
       image:
         filename: YU WU.png
