@@ -15,10 +15,10 @@ sections:
       2. Vision-Language Integration: We are dedicated to facilitating seamless collaboration between vision and language, enhancing communication and reasoning across these modalities.<br>
       3. Generative Models: We aim to generate high-fidelity images, text, and other forms of content, fostering new possibilities in AI-driven content generation.<br>
       Looking for highly-motivated Postdoc/Ph.D. students for 2023! Feel free to drop me an email with your CV. [[招生信息]](https://zhuanlan.zhihu.com/p/581311359)<br>    
-  design:
-    columns: '1'
-    text:
-      width: '80%'
+    design:
+      columns: '1'
+      text:
+        width: '80%'
     
   - block: hero
     content:
