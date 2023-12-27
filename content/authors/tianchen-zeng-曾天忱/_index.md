@@ -1,6 +1,6 @@
 ---
 title: Tianchen Zeng
-role: PhD(Purusing)
+role: Ph.D. Students
 avatar_filename: avatar.jpg
 interests:
   - Visual Grounding
@@ -20,7 +20,7 @@ education:
       year: 2024
 superuser: false
 user_groups:
-  - Teammates
+  - Ph.D. Students
 ---
 <!--StartFragment-->
 
