@@ -1,12 +1,16 @@
 ---
 title: Tao Cao
-role: Master’s Degree(Purusing)
+role: Master Students
 avatar_filename: avatar.jpg
 interests:
-  - artificial
+  - Artificial intelligence
+  - computer vision
+  - referring expression segmentation
 social: []
+organizations:
+  - name: WuHan University
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
-H﻿i ! I'm Tao Ca
+H﻿i ! I'm Tao Cao.I am a master's student with a wide range of interests, currently studying under Professor Wu Yu.
