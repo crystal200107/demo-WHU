@@ -1,6 +1,6 @@
 ---
 title: Haonan Guo
-role: PhD(Purusing)
+role: Ph.D. Students
 avatar_filename: avatar.jpg
 interests:
   - Multimodal Foundation Model
@@ -22,7 +22,7 @@ education:
 email: ""
 superuser: false
 user_groups:
-  - Teammates
+  - Ph.D. Students
 ---
 <!--StartFragment-->
 
