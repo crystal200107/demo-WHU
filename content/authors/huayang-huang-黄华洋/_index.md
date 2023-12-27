@@ -1,6 +1,6 @@
 ---
 title: Huayang Huang
-role: Master's Degree(Purusing)
+role: Master Students
 avatar_filename: avatar.jpg
 interests:
   - Backdoor attacks&defenses
@@ -21,7 +21,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - Teammates
+  - Master Students
 ---
 <!--StartFragment-->
 
