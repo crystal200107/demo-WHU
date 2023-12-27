@@ -1,6 +1,6 @@
 ---
 title: Naifu Liang
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpg
 bio: My current research direction is 3D Diffusion content generation.
 interests:
