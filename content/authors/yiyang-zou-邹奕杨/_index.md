@@ -1,6 +1,6 @@
 ---
 title: Yiyang Zou
-role: Undergraduate
+role: Undergraduate Students
 avatar_filename: avatar.jpg
 bio: ""
 interests:
@@ -26,6 +26,6 @@ education:
       year: 2023
 superuser: false
 user_groups:
-  - Teammates
+  - Undergraduate Students
 ---
 I'm now a bachelor student in Wuhan University, majoring in computer science and technology. I'm gonna to pursue further study in Wuhan University , especially about multimodel and computer vision. I'm also interested in algorithm competitions.
