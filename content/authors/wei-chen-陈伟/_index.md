@@ -1,6 +1,6 @@
 ---
 title: Wei Chen
-role: Undergraduate Students
+role: ""
 avatar_filename: avatar.jpeg
 interests:
   - Vision Language Representation
