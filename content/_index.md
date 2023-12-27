@@ -7,8 +7,11 @@ type: landing
 sections:
   - block: hero
     content:
-      title: |
-       Yu Wu
+      title: >
+        <span style="font-size: 1.5em;">YU WU</span><br>
+        <span style="font-size: 1em;">Professor<br>
+        School of Computer Science<br>
+        Wuhan University</span>
       image:
         filename: YU WU.png
       text: |
