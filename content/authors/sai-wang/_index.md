@@ -1,6 +1,6 @@
 ---
 title: Sai Wang
-role: PhD(Purusing)
+role: Ph.D. Students
 avatar_filename: avatar.jpg
 interests:
   - Referring expression comprehension
@@ -19,7 +19,7 @@ education:
       year: 2021
 superuser: false
 user_groups:
-  - Teammates
+  - Ph.D. Students
 ---
 <!--StartFragment-->
 
